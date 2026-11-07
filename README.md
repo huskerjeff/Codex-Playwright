@@ -7,8 +7,8 @@ A ready-to-use repository that tells **Claude Code** to install Playwright and b
 You need Node.js 20+ and Claude Code installed.
 
 ```bash
-git clone https://github.com/huskerjeff/claude-playwright-browser.git
-cd claude-playwright-browser
+git clone https://github.com/huskerjeff/Codex-Playwright.git
+cd Codex-Playwright
 npm run setup
 claude
 ```
